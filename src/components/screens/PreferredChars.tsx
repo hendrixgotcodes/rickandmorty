@@ -52,7 +52,6 @@ export default function PreferredCharacters() {
         
     }
 
-    console.log(data);
     
     
 
